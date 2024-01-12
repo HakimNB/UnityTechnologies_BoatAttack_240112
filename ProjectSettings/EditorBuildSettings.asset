@@ -18,6 +18,12 @@ EditorBuildSettings:
     path: Assets/scenes/Testing/benchmark_island-static.unity
     guid: bf8529d52d0dac843b94245ecf955d4a
   m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: d90c04bf1bc43430784c2633072ec95f, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2411f967572e446dfac90b8e580045e5,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 2950d88f2285148c59b51b781e0f8761, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 3f119a19757f84dac85ee298b9dd65d3,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dc467d155e63a4b4b997b9ab411fd223,
